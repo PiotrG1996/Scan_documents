@@ -39,16 +39,18 @@ This project is a document scanner that uses edge detection and perspective tran
 
 ### `requirements.txt`
 
-document-scanner/
-├── main.py
-├── utlis.py
-├── requirements.txt
-└── README.md
+
 
 
 ```text
 opencv-python
 numpy
+
+document-scanner/
+├── main.py
+├── utlis.py
+├── requirements.txt
+└── README.md
 ```
 
 ## Usage
